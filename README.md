@@ -6,4 +6,4 @@ Developed 2D Glitch Garden game using Unity Game Engine. Glitch Garden is Plant 
 
 ## Illustrations
 
-![Game Images](https://github.com/GURPREETSINGHMULTANI/Unity-Game-Dungeon-Shooter/blob/master/Dungeon%20Shooter%20Images/1.png?raw=true)
+![Game Images](https://github.com/GURPREETSINGHMULTANI/Unity-Game-Dungeon-Shooter/blob/master/Dungeon%20Shooter%20Images/1111.png?raw=true)
